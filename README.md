@@ -15,6 +15,31 @@
 <img src="https://komarev.com/ghpvc/?username=Anushraj01&style=for-the-badge&color=ff5cb3&labelColor=1a0b2e" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Anushraj01?style=for-the-badge&color=9b5cff&labelColor=1a0b2e&label=Followers" alt="GitHub followers"/>
 
+<br/><br/>
+
+<a href="mailto:anushraj192@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff5cb3?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/anushraj01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-9b5cff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Anushraj01?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Projects-Explore-5ce1ff?style=flat-square&logo=github&logoColor=black" alt="Projects"/></a>
+
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img src="banner.svg?v=1" alt="Anush Raj banner" width="100%">
+</picture>
+
+<br/>
+
+<img src="lanyard.svg?v=1" alt="Anush Raj ID badge" height="260">
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Anushraj01&style=for-the-badge&color=ff5cb3&labelColor=1a0b2e" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Anushraj01?style=for-the-badge&color=9b5cff&labelColor=1a0b2e&label=Followers" alt="GitHub followers"/>
+
 </div>
 
 <br/>
