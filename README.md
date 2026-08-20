@@ -6,41 +6,44 @@
   <img src="banner.svg?v=1" alt="Anush Raj banner" width="100%">
 </picture>
 
-<br/>
-
-<img src="lanyard.svg?v=1" alt="Anush Raj ID badge" height="260">
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Anushraj01&style=for-the-badge&color=ff5cb3&labelColor=1a0b2e" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Anushraj01?style=for-the-badge&color=9b5cff&labelColor=1a0b2e&label=Followers" alt="GitHub followers"/>
-
-<br/><br/>
-
-<a href="mailto:anushraj192@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff5cb3?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/anushraj01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-9b5cff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Anushraj01?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Projects-Explore-5ce1ff?style=flat-square&logo=github&logoColor=black" alt="Projects"/></a>
-
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  <img src="banner.svg?v=1" alt="Anush Raj banner" width="100%">
-</picture>
-
-<br/>
-
-<img src="lanyard.svg?v=1" alt="Anush Raj ID badge" height="260">
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Anushraj01&style=for-the-badge&color=ff5cb3&labelColor=1a0b2e" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Anushraj01?style=for-the-badge&color=9b5cff&labelColor=1a0b2e&label=Followers" alt="GitHub followers"/>
 
 </div>
+
+<br/>
+
+<!-- Side-by-side layout for ID Badge and Projects -->
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top" width="30%">
+      <img src="lanyard.svg?v=1" alt="Anush Raj ID badge" height="320">
+    </td>
+    <td valign="top" width="70%">
+      <h3>🚀 Featured Projects</h3>
+      <table width="100%">
+        <tr>
+          <th>Project</th>
+          <th>Tech</th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Anushraj01"><b>Netflix Clone</b></a><br/><sub>Responsive clone with custom styling</sub></td>
+          <td><code>HTML</code> <code>CSS</code></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Anushraj01"><b>Interactive Games Suite</b></a><br/><sub>Dino game, Snake game, and Guess the Number</sub></td>
+          <td><code>JS</code> <code>HTML</code> <code>CSS</code></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Anushraj01"><b>Personal Portfolio</b></a><br/><sub>Print-optimized developer portfolio</sub></td>
+          <td><code>Bootstrap</code> <code>CSS</code></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -82,8 +85,6 @@
 
 </div>
 
-> **Note:** `stats.svg`, `langs.svg` and `trophies.svg` are self-hosted local files (no rate-limited third-party card services), so they render instantly and reliably every time — but their numbers are illustrative starting values baked in at generation time. Wire them up to the [GitHub REST API](https://docs.github.com/en/rest) in a scheduled Action (similar to `github-snake.yml` below) whenever you want them to reflect live data.
-
 <br/>
 
 ## 📈 Contribution Activity
@@ -113,14 +114,6 @@
 </div>
 
 *Generated daily using [Platane/snk](https://github.com/Platane/snk).*
-
-## 🚀 Projects
-
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| **Netflix Clone** | Responsive clone of the Netflix interface built with custom styling and layout. | `HTML` `CSS` | [repo](https://github.com/Anushraj01) |
-| **Interactive Games Suite** | Collection of mini-games including Dino game, Snake game, and Guess the Number. | `JavaScript` `HTML` `CSS` | [repo](https://github.com/Anushraj01) |
-| **Personal Portfolio** | Print-optimized responsive developer portfolio featuring custom layouts and themes. | `HTML` `CSS` `Bootstrap` | [repo](https://github.com/Anushraj01) |
 
 <br/>
 
