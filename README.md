@@ -75,12 +75,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anushraj01&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&text_color=ff5cb3&icon_color=9b5cff" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushraj01&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&text_color=ff5cb3" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anushraj01&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&text_color=ff5cb3&icon_color=9b5cff" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anushraj01&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushraj01&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&text_color=ff5cb3" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anushraj01&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
