@@ -93,11 +93,9 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| _Add your project name_ | Short one-line description of what it does and why it's cool | `React` `SQL` | [repo](https://github.com/Anushraj01) |
-| _Add your project name_ | Short one-line description of what it does and why it's cool | `JavaScript` `HTML` `CSS` | [repo](https://github.com/Anushraj01) |
-| _Add your project name_ | Short one-line description of what it does and why it's cool | `Java` `DSA` | [repo](https://github.com/Anushraj01) |
-
-> Replace the rows above with your real repositories — name, one-liner, stack, and link.
+| **Netflix Clone** | Responsive clone of the Netflix interface built with custom styling and layout. | `HTML` `CSS` | [repo](https://github.com/Anushraj01) |
+| **Interactive Games Suite** | Collection of mini-games including Dino game, Snake game, and Guess the Number. | `JavaScript` `HTML` `CSS` | [repo](https://github.com/Anushraj01) |
+| **Personal Portfolio** | Print-optimized responsive developer portfolio featuring custom layouts and themes. | `HTML` `CSS` `Bootstrap` | [repo](https://github.com/Anushraj01) |
 
 <br/>
 
