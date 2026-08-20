@@ -77,19 +77,11 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anushraj01/Anushraj01/output/github-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anushraj01/Anushraj01/output/github-snake-light.svg?v=1">
-  <img src="https://raw.githubusercontent.com/Anushraj01/Anushraj01/output/github-snake.svg?v=1" alt="A snake eating my GitHub contribution graph" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anushraj01/Anushraj01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anushraj01/Anushraj01/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake animation" src="https://raw.githubusercontent.com/Anushraj01/Anushraj01/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-</div>
-
-*Generated daily by [`.github/workflows/github-snake.yml`](.github/workflows/github-snake.yml) using [Platane/snk](https://github.com/Platane/snk) and published to the `output` branch.*
-
-<br/>
 
 ## 🚀 Projects
 
