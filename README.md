@@ -71,18 +71,17 @@
 
 <br/>
 
-## 📊 Live GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
+<table>
+<tr>
+<td><img src="stats.svg?v=1" alt="GitHub stats" width="100%"/></td>
+<td><img src="langs.svg?v=1" alt="Most used languages" width="100%"/></td>
+</tr>
+</table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anushraj01&theme=radical&background=1A0B2E&border=1A0B2E)](https://git.io/streak-stats)
-
-<br/><br/>
-
-[![Total Commits](https://img.shields.io/badge/dynamic/json?color=9b5cff&label=Total%20Commits&query=total_commits&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DAnushraj01%26count_private%3Dtrue&style=for-the-badge&logo=github)](https://github.com/Anushraj01)
-[![Top Language](https://img.shields.io/badge/Primary%20Lang-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Anushraj01)
-[![Public Repos](https://img.shields.io/github/repos/Anushraj01?style=for-the-badge&color=ff5cb3&logo=github)](https://github.com/Anushraj01?tab=repositories)
-
+<img src="trophies.svg?v=1" alt="GitHub trophies" width="90%"/>
 </div>
 ## 📈 Contribution Activity
 
