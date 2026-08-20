@@ -1,0 +1,73 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Anush Raj GitHub stats">
+  <title>GitHub Stats — Anush Raj</title>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0b2e"/>
+      <stop offset="55%" stop-color="#2d1150"/>
+      <stop offset="100%" stop-color="#3d0f3f"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff5cb3"/>
+      <stop offset="100%" stop-color="#9b5cff"/>
+    </linearGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter></defs>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="16" fill="url(#bgGrad)" stroke="rgba(255,140,220,0.28)" stroke-width="1.3"/>
+  <text x="24" y="30" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#f3e8ff">GITHUB STATS</text>
+
+  <g transform="translate(100,97)">
+    <circle r="62" fill="none" stroke="rgba(255,255,255,0.09)" stroke-width="12"/>
+    <circle r="62" fill="none" stroke="url(#accentGrad)" stroke-width="12" stroke-linecap="round"
+      stroke-dasharray="389.56" stroke-dashoffset="389.56" transform="rotate(-90)">
+      <animate attributeName="stroke-dashoffset" from="389.56" to="54.54"
+        begin="0.4s" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+    </circle>
+    <text x="0" y="-2" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#f3e8ff" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.5s" fill="freeze"/>
+      A+
+    </text>
+    <text x="0" y="20" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#c9b6e8" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.5s" fill="freeze"/>
+      RANK
+    </text>
+  </g>
+
+  
+    <g opacity="0" transform="translate(40,0)">
+      <animate attributeName="opacity" values="0;1" begin="0.9s" dur="0.55s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="40,0; 0,0" begin="0.9s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <text x="218" y="40" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#ff5cb3">★</text>
+      <text x="244" y="40" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#c9b6e8">Total Stars</text>
+      <text x="471" y="40" text-anchor="end" font-family="'Courier New',monospace" font-size="14" font-weight="bold" fill="#f3e8ff">128</text>
+    </g>
+    <g opacity="0" transform="translate(40,0)">
+      <animate attributeName="opacity" values="0;1" begin="1.08s" dur="0.55s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="40,0; 0,0" begin="1.08s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <text x="218" y="70" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#ff5cb3">⚡</text>
+      <text x="244" y="70" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#c9b6e8">Total Commits</text>
+      <text x="471" y="70" text-anchor="end" font-family="'Courier New',monospace" font-size="14" font-weight="bold" fill="#f3e8ff">1,842</text>
+    </g>
+    <g opacity="0" transform="translate(40,0)">
+      <animate attributeName="opacity" values="0;1" begin="1.26s" dur="0.55s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="40,0; 0,0" begin="1.26s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <text x="218" y="100" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#ff5cb3">⌥</text>
+      <text x="244" y="100" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#c9b6e8">Pull Requests</text>
+      <text x="471" y="100" text-anchor="end" font-family="'Courier New',monospace" font-size="14" font-weight="bold" fill="#f3e8ff">63</text>
+    </g>
+    <g opacity="0" transform="translate(40,0)">
+      <animate attributeName="opacity" values="0;1" begin="1.44s" dur="0.55s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="40,0; 0,0" begin="1.44s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <text x="218" y="130" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#ff5cb3">⚙</text>
+      <text x="244" y="130" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#c9b6e8">Issues Closed</text>
+      <text x="471" y="130" text-anchor="end" font-family="'Courier New',monospace" font-size="14" font-weight="bold" fill="#f3e8ff">41</text>
+    </g>
+    <g opacity="0" transform="translate(40,0)">
+      <animate attributeName="opacity" values="0;1" begin="1.62s" dur="0.55s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="40,0; 0,0" begin="1.62s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <text x="218" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#ff5cb3">👥</text>
+      <text x="244" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#c9b6e8">Contributed To</text>
+      <text x="471" y="160" text-anchor="end" font-family="'Courier New',monospace" font-size="14" font-weight="bold" fill="#f3e8ff">17</text>
+    </g>
+</svg>
