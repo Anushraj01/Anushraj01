@@ -71,22 +71,19 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Live GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anushraj01&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&text_color=ff5cb3&icon_color=9b5cff" alt="GitHub Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anushraj01&theme=radical&background=1A0B2E&border=1A0B2E)](https://git.io/streak-stats)
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushraj01&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&text_color=ff5cb3" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anushraj01&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+[![Total Commits](https://img.shields.io/badge/dynamic/json?color=9b5cff&label=Total%20Commits&query=total_commits&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DAnushraj01%26count_private%3Dtrue&style=for-the-badge&logo=github)](https://github.com/Anushraj01)
+[![Top Language](https://img.shields.io/badge/Primary%20Lang-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Anushraj01)
+[![Public Repos](https://img.shields.io/github/repos/Anushraj01?style=for-the-badge&color=ff5cb3&logo=github)](https://github.com/Anushraj01?tab=repositories)
 
 </div>
-
 ## 📈 Contribution Activity
 
 <div align="center">
